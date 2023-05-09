@@ -1,0 +1,9 @@
+googleads.g.doubleclick.net
+ads.youtube.com
+s.youtube.com
+video-ad-stats.googlesyndication.com
+imasdk.googleapis.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+tpc.googlesyndication.com
+www.googleadservices.com

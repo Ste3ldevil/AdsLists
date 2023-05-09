@@ -1,0 +1,12 @@
+aax-us-east.amazon-adsystem.com
+s.amazon-adsystem.com
+fls-na.amazon.com
+www.amazon-adsystem.com
+rcm-na.amazon-adsystem.com
+ir-na.amazon-adsystem.com
+ws-na.amazon-adsystem.com
+s3.amazonaws.com
+completion.amazon.com
+www.amazon.co.uk/cdn-cgi/beacon
+fls-na.amazon.com
+completion.amazon.com
