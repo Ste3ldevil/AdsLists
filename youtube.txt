@@ -7,3 +7,16 @@ pagead2.googlesyndication.com
 partner.googleadservices.com
 tpc.googlesyndication.com
 www.googleadservices.com
+googleadservices.com
+googletagservices.com
+adservice.google.com
+yt3.ggpht.com
+s.ytimg.com
+i.ytimg.com
+google-analytics.com
+www.google-analytics.com
+stats.g.doubleclick.net
+csi.gstatic.com
+googleapis.com
+youtube-ui.l.google.com
+youtube.com/pagead/conversion.js
