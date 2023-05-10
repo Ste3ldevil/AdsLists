@@ -10,3 +10,6 @@ completion.amazon.com
 www.amazon.co.uk/cdn-cgi/beacon
 fls-na.amazon.com
 completion.amazon.com
+s.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+fls-eu.amazon.com
