@@ -18,5 +18,4 @@ www.google-analytics.com
 stats.g.doubleclick.net
 csi.gstatic.com
 googleapis.com
-youtube-ui.l.google.com
 youtube.com/pagead/conversion.js
